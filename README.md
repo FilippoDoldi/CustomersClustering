@@ -10,4 +10,4 @@ The solution utilizes the KMedoids algorithm with the Gower distance as metric d
 
 **Results**
 
-The algorithm propose 9 cluster with an average silhouette score on the test set of 0.88. From a business perspective we can unite some of these clusters since some of the differences between them isn't related to the business aim. The final proposed business solution is composed by 6 different clusters.
+The algorithm propose 9 cluster with an average silhouette score on the test set of 0.88. From a business perspective we can unite some of these clusters since the differences between them aren't related to the business aim. The final proposed business solution is composed by 6 different clusters.

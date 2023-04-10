@@ -6,7 +6,7 @@ This dataset groups the customers of a bank. The objective is to find clusters o
 
 **Solution**
 
-The solution utilizes the KMedoids algorithm with the Gower distance as metric due to the presence of relevant categorical features. The number of cluster is selected through the silhouette score, which is the chosen performance metric. Randomized Search Cross Validation is used to find sub-optimal parameters (Gower distance weights and number of clusters).
+The solution utilizes the KMedoids algorithm with the Gower distance as metric due to the presence of relevant categorical features. The number of clusters is selected through the silhouette score, which is the chosen performance metric. Randomized Search Cross Validation is used to find sub-optimal parameters (Gower distance weights and number of clusters).
 
 **Results**
 
